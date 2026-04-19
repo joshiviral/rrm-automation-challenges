@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.rrm.qa.api.ContactsApiTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.856 s -- in com.rrm.qa.api.ContactsApiTests
